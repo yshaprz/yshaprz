@@ -1,4 +1,4 @@
-<head><img align="center alt="banner" width="2000" height="400" src="https://64.media.tumblr.com/d92947f9fefb7ddd338ed3dd62dcf074/2561a210f7b1b61b-46/s540x810/9f99890171b6e322d99b255f82504b3871d8fd62.gif">
+<head><img align="center alt="banner" width="2500" height="400" src="https://64.media.tumblr.com/d92947f9fefb7ddd338ed3dd62dcf074/2561a210f7b1b61b-46/s540x810/9f99890171b6e322d99b255f82504b3871d8fd62.gif">
 </head>
 <h1 align="center">   Annyeong!🫰 
 <p align="center">I'm Yesha M. Perez</h1>
