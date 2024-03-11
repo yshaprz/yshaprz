@@ -3,9 +3,9 @@
 <h1 align="center">Annyeong!🫰, I'm Yesha M. Perez</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yshaprz&label=Profile%20views&color=0e75b6&style=flat" alt="yshaprz" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://j.gifs.com/wjxw1M.gif">
 
-<p align="left"> <a href="https://twitter.com/yshaprz" target="blank"><img src="https://bs.uenicdn.com/blog/wp-content/uploads/2018/04/giphy.gif" alt="yshaprz" /></a> </p>
+
+<p align="center"> <a href="https://twitter.com/yshaprz" target="blank"><img src="https://bs.uenicdn.com/blog/wp-content/uploads/2018/04/giphy.gif" alt="yshaprz" /></a> </p>
 
 - 🌱 I’m currently learning **Python and C#**
 
