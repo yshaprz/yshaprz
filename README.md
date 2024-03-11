@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python and C#**
 
-- 📫 How to reach me: **yshprz@gmail.com**
+- 📫 How to reach me: **naka dnd eh, chz. Sa ano po, -> yshprz@gmail.com**
 
 - ⚡ Fun fact: **Introvertz**
 
