@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F0k6meqvps4h91.gif%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3D37b07501624618d223280da461d777724f0266fc](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fits-me-wallpaper-guy-again-these-are-some-of-the-animated-v0-u5mzqfs0aprb1.gif%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3Df5c799d86f2b63d5fb6960a12331162eb9de6904)]
+[![MasterHead](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fits-me-wallpaper-guy-again-these-are-some-of-the-animated-v0-u5mzqfs0aprb1.gif%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3Df5c799d86f2b63d5fb6960a12331162eb9de6904)]
 <h1 align="center">Annyeong!🫰, I'm Yesha M. Perez</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yshaprz&label=Profile%20views&color=0e75b6&style=flat" alt="yshaprz" /> </p>
 
