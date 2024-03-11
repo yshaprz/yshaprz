@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.answeroverflow.com%2Fm%2F1122753161782907011&psig=AOvVaw3eIIrJMBLhtUsWtAaMS9xP&ust=1710247169093000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjh7rSd7IQDFQAAAAAdAAAAABAJ" alt="Banner GIF">
-</p>
+<head><img align="center alt="banner" width="3000" height="280" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*eIhVp0KXrXSSHORN.gif">
+</head>
 <h1 align="center">Annyeong!🫰, I'm Yesha M. Perez</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yshaprz&label=Profile%20views&color=0e75b6&style=flat" alt="yshaprz" /> </p>
 
