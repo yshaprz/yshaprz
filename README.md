@@ -1,4 +1,4 @@
-<head><img align="center alt="banner" width="3750" height=430" src="[https://answer-overflow-discord-attachments.s3.amazonaws.com/1123139776372023296/Reyna_Wallpaper_AdobeExpress.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.answeroverflow.com%2Fm%2F1122753161782907011&psig=AOvVaw3eIIrJMBLhtUsWtAaMS9xP&ust=1710247169093000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjh7rSd7IQDFQAAAAAdAAAAABAJ)">
+<head><img align="center alt="banner" width="3000" height="280" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.answeroverflow.com%2Fm%2F1122753161782907011&psig=AOvVaw3eIIrJMBLhtUsWtAaMS9xP&ust=1710247169093000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjh7rSd7IQDFQAAAAAdAAAAABAJ">
 </head>
 <h1 align="center">Annyeong!🫰, I'm Yesha M. Perez</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yshaprz&label=Profile%20views&color=0e75b6&style=flat" alt="yshaprz" /> </p>
