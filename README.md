@@ -1,4 +1,4 @@
-<head><img align="center alt="banner" width="3700" height=430" src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fits-me-wallpaper-guy-again-these-are-some-of-the-animated-v0-u5mzqfs0aprb1.gif%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3Df5c799d86f2b63d5fb6960a12331162eb9de6904"></head>
+<head><img align="center alt="banner" width="3700" height=430" src="(https://i.pinimg.com/originals/f2/38/e8/f238e8b339824587f493aca2d765a6ba.gif)"></head>
 <h1 align="center">Annyeong!🫰, I'm Yesha M. Perez</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yshaprz&label=Profile%20views&color=0e75b6&style=flat" alt="yshaprz" /> </p>
 
