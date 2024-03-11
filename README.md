@@ -1,4 +1,4 @@
-<head><img align="center alt="banner" width="2000" height="400" src="[https://www.google.com/url?sa=i&urlhttps%3A%2F%2www.deviantart.com%2Fiva-robinson%2Fart%2FGalaxy-Aesthetic-834800929&psig=AOvVaw12O1QksFGSQNjFny-r39Pz&ust=1710247868911000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqGAoTCPDx0fef7IQDFQAAAAAdAAAAABCIAQ](https://i.pinimg.com/originals/a3/82/40/a38240eb70bd2196ea59dba657cf6040.gif)">
+<head><img align="center alt="banner" width="2000" height="400" src="https://i.pinimg.com/originals/e7/2c/d1/e72cd1b3049474f7a2f496505a6773d2.gif">
 </head>
 <h1 align="center">Annyeong!🫰, I'm Yesha M. Perez</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yshaprz&label=Profile%20views&color=0e75b6&style=flat" alt="yshaprz" /> </p>
