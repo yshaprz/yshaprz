@@ -1,4 +1,5 @@
-<head><img align="center alt="banner" width="3800" height=400" src="https://i.pinimg.com/originals/f2/38/e8/f238e8b339824587f493aca2d765a6ba.gif](https://answer-overflow-discord-attachments.s3.amazonaws.com/1123139776372023296/Reyna_Wallpaper_AdobeExpress.gif)"></head>
+<head><img align="center alt="banner" width="3750" height=430" src="https://preview.redd.it/nico-robin-throughout-the-years-v0-1xfd7cxod1g81.gif?width=500&auto=webp&s=ff69495a9559653a6b403fdb612530ceea51d377">
+</head>
 <h1 align="center">Annyeong!🫰, I'm Yesha M. Perez</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yshaprz&label=Profile%20views&color=0e75b6&style=flat" alt="yshaprz" /> </p>
 
