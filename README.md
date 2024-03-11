@@ -1,4 +1,4 @@
-<head><img align="center alt="banner" width="3000" height="280" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*eIhVp0KXrXSSHORN.gif">
+<head><img align="center alt="banner" width="3000" height="280" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*eIhVp0KXrXSSHORN.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fheredit.mx%2F%3Fa%3Dcreate-pixel-art-backgrounds-and-animations-by-arveyyudi-fiverr-cc-V8NoN3ID&psig=AOvVaw12O1QksFGSQNjFny-r39Pz&ust=1710247868911000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDx0fef7IQDFQAAAAAdAAAAABAJ)">
 </head>
 <h1 align="center">Annyeong!🫰, I'm Yesha M. Perez</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yshaprz&label=Profile%20views&color=0e75b6&style=flat" alt="yshaprz" /> </p>
