@@ -1,4 +1,4 @@
-<head><img align="center alt="banner" width="3700" height=430" src="(https://i.pinimg.com/originals/f2/38/e8/f238e8b339824587f493aca2d765a6ba.gif)"></head>
+<head><img align="center alt="banner" width="3700" height=430" src="https://i.pinimg.com/originals/f2/38/e8/f238e8b339824587f493aca2d765a6ba.gif"></head>
 <h1 align="center">Annyeong!🫰, I'm Yesha M. Perez</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yshaprz&label=Profile%20views&color=0e75b6&style=flat" alt="yshaprz" /> </p>
 
