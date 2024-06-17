@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "82W44SxWUhRW7SKxP0qg+qfnoq9Z0mLzd5A7nPE254BH/UbaKXgUgeVvsFup1lact8alHO8RI8t1DvkH84CBHA==",
+  "success": true,
+  "projectFilePath": "D:\\OOP WINFORMS\\bookingform\\bookingform\\bookingform.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yesh\\.nuget\\packages\\fontawesome\\4.7.0\\fontawesome.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
