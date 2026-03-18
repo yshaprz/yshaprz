@@ -8,8 +8,6 @@
 
 <p align="center"> <a href="https://twitter.com/yshaprz" target="blank"><img src="https://bs.uenicdn.com/blog/wp-content/uploads/2018/04/giphy.gif" alt="yshaprz" /></a> </p>
 
-- 🌱 I’m currently learning **Python and C#**
-
 - 📫 How to reach me: **naka dnd eh, chz. Sa ano po, -> yshprz@gmail.com**
 
 - ⚡ Fun fact: **Introvertz**
